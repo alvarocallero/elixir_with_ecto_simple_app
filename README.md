@@ -1,2 +1,2 @@
 # elixir-ecto-app
-Test application in Elixir with Ecto
+This is a simple Elixir app that use Ecto to store and retrieve users stored in a PostgresDB.
